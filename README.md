@@ -2,7 +2,7 @@
 - 👀 I’m interested to learn coding
 - 🌱 I’m currently learning Front End Web Developer with Udacity
 - 💞️ I’m looking to collaborate on frontend development projects that involve creating responsive and user-friendly web interfaces
-- 📫 How to reach me in my Email
+- 📫 How to reach me rawidasalim@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
